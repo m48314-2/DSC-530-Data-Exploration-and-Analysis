@@ -22,7 +22,7 @@ The analysis is performed in Python using the following scripts:
   <li><b>scatter_plot-sat_v.py</b>: generates a scatter plot for SAT verbal scores and first-year GPA</li>  
 </ul>
 
-<br>Results<br>
+<br><b>Results</b><br><br>
 The EDA reveals the summary statistics and correlation coefficients of the six columns. The mean value of sex is 1.48, indicating that there are more females in the dataset. The mean values of SAT scores are moderate. The mean value of high school GPA is 3.20, and the mean value of first-year GPA is 2.47, which is lower than high school GPA, indicating a drop in performance in the first year.
 
 The correlation matrix shows that the highest correlation with first-year GPA is high school GPA (0.535207), followed by SAT scores. The OLS regression analysis confirms that all four predictors: sex, sat_v, sat_m, and sat_sum, are statistically significant in predicting first-year GPA, along with high school GPA.
