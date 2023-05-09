@@ -8,14 +8,14 @@ Analysis<br>
 The analysis is performed in Python using the following scripts:
 
 <ul>
-  <li>Coffee</li>
-  <li>Tea</li>
-  <li>Milk</li>
+  <li>analytical_distribution.py: computes the analytical distribution for each column</li>
+  <li>cdf_hs_gpa.py: generates a CDF plot for high school GPA</li>
+  <li>clean_data.py: cleans the dataset by removing missing data and outliers</li>
 </ul>
 
-analytical_distribution.py: computes the analytical distribution for each column<br>
-cdf_hs_gpa.py: generates a CDF plot for high school GPA<br>
-clean_data.py: cleans the dataset by removing missing data and outliers<br>
+
+
+
 corr_matrix.py: computes the correlation matrix between each column<br>
 descriptive_characteristics.py: computes the mean, mode, standard deviation, and minimum value for each column<br>
 histogram_analysis.py: generates a histogram plot for each column<br>
