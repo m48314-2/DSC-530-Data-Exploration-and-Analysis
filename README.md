@@ -1,4 +1,4 @@
-<b>Introduction</b><br>
+<b>Introduction</b><br><br>
 This repository contains code for analyzing the first-year grade point average (GPA) of college students. The data provides insights on the factors that affect GPA, such as SAT scores and high school GPA. The goal of this project is to explore the data, generate insights, and identify any limitations of the analysis.
 
 Data<br>
