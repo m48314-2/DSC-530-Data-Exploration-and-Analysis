@@ -4,7 +4,7 @@ This repository contains code for analyzing the first-year grade point average (
 Data<br>
 The dataset used in this project is available in the file satgpa.csv. It contains six columns: sex, sat_v, sat_m, sat_sum, hs_gpa, and fy_gpa. The file cleaned_data.csv is a cleaned version of the dataset with missing data and outliers removed.
 
-Analysis:
+Analysis<br>
 The analysis is performed in Python using the following scripts:
 
 analytical_distribution.py: computes the analytical distribution for each column
