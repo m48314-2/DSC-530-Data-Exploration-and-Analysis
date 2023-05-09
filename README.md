@@ -31,6 +31,6 @@ However, there are some limitations to this analysis. One significant limitation
 
 Moreover, there is a possibility of incorrect assumptions. For instance, the assumption of linearity may not hold, and there could be a nonlinear relationship between the predictors and the first-year GPA. There is also a chance that the data is not normally distributed, and the summary statistics could be affected by outliers or extreme values.
 
-Conclusion<br>
+<b>Conclusion</b><br>
 While this analysis provides insights into the factors that impact the first-year GPA, there are some limitations to the analysis that should be addressed. To better understand the predictors of first-year GPA, future studies should incorporate a broader range of variables and consider nonlinearity and non-normality assumptions.
 
