@@ -7,6 +7,12 @@ The dataset used in this project is available in the file satgpa.csv. It contain
 Analysis<br>
 The analysis is performed in Python using the following scripts:
 
+<ul>
+  <li>Coffee</li>
+  <li>Tea</li>
+  <li>Milk</li>
+</ul>
+
 analytical_distribution.py: computes the analytical distribution for each column<br>
 cdf_hs_gpa.py: generates a CDF plot for high school GPA<br>
 clean_data.py: cleans the dataset by removing missing data and outliers<br>
