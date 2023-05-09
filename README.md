@@ -8,18 +8,18 @@ The dataset used in this project is available in the file satgpa.csv. It contain
 The analysis is performed in Python using the following scripts:
 
 <ul>
-  <li>analytical_distribution.py: computes the analytical distribution for each column</li>
-  <li>cdf_hs_gpa.py: generates a CDF plot for high school GPA</li>
-  <li>clean_data.py: cleans the dataset by removing missing data and outliers</li>
-  <li>corr_matrix.py: computes the correlation matrix between each column</li>
-  <li>descriptive_characteristics.py: computes the mean, mode, standard deviation, and minimum value for each column</li>
-  <li>histogram_analysis.py: generates a histogram plot for each column</li>
-  <li>hypothesis_testing.py: performs hypothesis testing to determine the significance of each column in predicting first-year GPA</li>
-  <li>pmf_sat_m.py: generates a PMF plot for SAT math scores</li>
-  <li>pmf_sat_v.py: generates a PMF plot for SAT verbal scores</li>
-  <li>regression_analysis.py: performs a linear regression analysis to predict first-year GPA based on the other columns</li>
-  <li>scatter_plot-sat_m.py: generates a scatter plot for SAT math scores and first-year GPA</li>
-  <li>scatter_plot-sat_v.py: generates a scatter plot for SAT verbal scores and first-year GPA</li>  
+  <li><b>analytical_distribution.py</b>: computes the analytical distribution for each column</li>
+  <li><b>cdf_hs_gpa.py</b>: generates a CDF plot for high school GPA</li>
+  <li><b>clean_data.py</b>: cleans the dataset by removing missing data and outliers</li>
+  <li><b>corr_matrix.py</b>: computes the correlation matrix between each column</li>
+  <li><b>descriptive_characteristics.py</b>: computes the mean, mode, standard deviation, and minimum value for each column</li>
+  <li><b>histogram_analysis.py</b>: generates a histogram plot for each column</li>
+  <li><b>hypothesis_testing.py</b>: performs hypothesis testing to determine the significance of each column in predicting first-year GPA</li>
+  <li><b>pmf_sat_m.py</b>: generates a PMF plot for SAT math scores</li>
+  <li><b>pmf_sat_v.py</b>: generates a PMF plot for SAT verbal scores</li>
+  <li><b>regression_analysis.py</b>: performs a linear regression analysis to predict first-year GPA based on the other columns</li>
+  <li><b>scatter_plot-sat_m.py</b>: generates a scatter plot for SAT math scores and first-year GPA</li>
+  <li><b>scatter_plot-sat_v.py</b>: generates a scatter plot for SAT verbal scores and first-year GPA</li>  
 </ul>
 
 <br>Results<br>
