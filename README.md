@@ -4,27 +4,24 @@ This repository contains code for analyzing the first-year grade point average (
 Data<br>
 The dataset used in this project is available in the file satgpa.csv. It contains six columns: sex, sat_v, sat_m, sat_sum, hs_gpa, and fy_gpa. The file cleaned_data.csv is a cleaned version of the dataset with missing data and outliers removed.
 
-Analysis<br>
+Analysis<br><br>
 The analysis is performed in Python using the following scripts:
 
 <ul>
   <li>analytical_distribution.py: computes the analytical distribution for each column</li>
   <li>cdf_hs_gpa.py: generates a CDF plot for high school GPA</li>
   <li>clean_data.py: cleans the dataset by removing missing data and outliers</li>
+  <li>corr_matrix.py: computes the correlation matrix between each column</li>
+  <li>descriptive_characteristics.py: computes the mean, mode, standard deviation, and minimum value for each column</li>
+  <li>histogram_analysis.py: generates a histogram plot for each column</li>
+  <li>hypothesis_testing.py: performs hypothesis testing to determine the significance of each column in predicting first-year GPA</li>
+  <li>pmf_sat_m.py: generates a PMF plot for SAT math scores</li>
+  <li>pmf_sat_v.py: generates a PMF plot for SAT verbal scores</li>
+  <li>regression_analysis.py: performs a linear regression analysis to predict first-year GPA based on the other columns</li>
+  <li>scatter_plot-sat_m.py: generates a scatter plot for SAT math scores and first-year GPA</li>
+  <li>scatter_plot-sat_v.py: generates a scatter plot for SAT verbal scores and first-year GPA</li>  
 </ul>
 
-
-
-
-corr_matrix.py: computes the correlation matrix between each column<br>
-descriptive_characteristics.py: computes the mean, mode, standard deviation, and minimum value for each column<br>
-histogram_analysis.py: generates a histogram plot for each column<br>
-hypothesis_testing.py: performs hypothesis testing to determine the significance of each column in predicting first-year GPA<br>
-pmf_sat_m.py: generates a PMF plot for SAT math scores<br>
-pmf_sat_v.py: generates a PMF plot for SAT verbal scores<br>
-regression_analysis.py: performs a linear regression analysis to predict first-year GPA based on the other columns<br>
-scatter_plot-sat_m.py: generates a scatter plot for SAT math scores and first-year GPA<br>
-scatter_plot-sat_v.py: generates a scatter plot for SAT verbal scores and first-year GPA<br>
 <br>Results<br>
 The EDA reveals the summary statistics and correlation coefficients of the six columns. The mean value of sex is 1.48, indicating that there are more females in the dataset. The mean values of SAT scores are moderate. The mean value of high school GPA is 3.20, and the mean value of first-year GPA is 2.47, which is lower than high school GPA, indicating a drop in performance in the first year.
 
