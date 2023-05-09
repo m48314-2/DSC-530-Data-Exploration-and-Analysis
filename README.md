@@ -1,7 +1,7 @@
 <b>Introduction</b><br><br>
 This repository contains code for analyzing the first-year grade point average (GPA) of college students. The data provides insights on the factors that affect GPA, such as SAT scores and high school GPA. The goal of this project is to explore the data, generate insights, and identify any limitations of the analysis.
 
-<b>Data</b><br>
+<b>Data</b><br><br>
 The dataset used in this project is available in the file satgpa.csv. It contains six columns: sex, sat_v, sat_m, sat_sum, hs_gpa, and fy_gpa. The file cleaned_data.csv is a cleaned version of the dataset with missing data and outliers removed.
 
 Analysis<br><br>
